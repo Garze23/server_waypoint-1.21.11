@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "_959.server_waypoint.mixin",
+  "compatibilityLevel": "JAVA_${java_version}",
+  "mixins": [
+  ],
+  "client": [
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
