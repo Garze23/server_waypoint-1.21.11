@@ -13,7 +13,6 @@ repositories {
 }
 
 loom {
-	splitEnvironmentSourceSets()
 	mods {
 		"server-waypoint" {
 			sourceSet sourceSets.main
