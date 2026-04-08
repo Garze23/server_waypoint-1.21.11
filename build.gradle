@@ -31,7 +31,6 @@ dependencies {
 	// Adventure API
 	implementation "net.kyori:adventure-api:4.17.0"
 	implementation "net.kyori:adventure-text-serializer-gson:4.17.0"
-	implementation "net.kyori:adventure-translation:4.17.0"
 
 	// Xaero's Minimap (compile only)
 	modCompileOnly "maven.modrinth:xaeros-minimap:fabric-1.21.11-25.3.10"
